@@ -1,0 +1,7 @@
+selenium
+requests
+reportlab
+beautifulsoup4
+python-dotenv
+webdriver-manager
+urllib3
